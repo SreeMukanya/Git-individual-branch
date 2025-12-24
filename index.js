@@ -1,5 +1,5 @@
-import express from "express";
-import mysql from "mysql";
+import express fmysqlrom "express";
+import mysql from "postgresql";
 import cors from "cors";
 import morgan from "morgan";
 import dotenv from "dotenv";
